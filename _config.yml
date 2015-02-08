@@ -1,10 +1,11 @@
 # Site settings
 title: Azeq's blog
 description: > # this means to ignore newlines until "baseurl:"
-  General web site on programming topic: Java, Python...
+  General web site on programming topics: Java, Python...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://azeq.github.io" # the base hostname & protocol for your site
 github_username:  azeq
 
 # Build settings
 markdown: kramdown
+highlighter: pygments

@@ -1,0 +1,39 @@
+---
+/Users/Paul/Applications/git/azeq.github.io/_posts/2015-02-08-java-memory-model.md:
+  mtime: 2015-02-08 18:18:52.000000000 +01:00
+  deps:
+  - /Users/Paul/Applications/git/azeq.github.io/_layouts/post.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/head.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/header.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/footer.html
+  - /Users/Paul/Applications/git/azeq.github.io/_layouts/default.html
+/Users/Paul/Applications/git/azeq.github.io/about.md:
+  mtime: 2015-02-08 14:53:05.000000000 +01:00
+  deps:
+  - /Users/Paul/Applications/git/azeq.github.io/_layouts/page.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/head.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/header.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/footer.html
+  - /Users/Paul/Applications/git/azeq.github.io/_layouts/default.html
+/Users/Paul/Applications/git/azeq.github.io/feed.xml:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps: []
+/Users/Paul/Applications/git/azeq.github.io/index.html:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps:
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/head.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/header.html
+  - /Users/Paul/Applications/git/azeq.github.io/_includes/footer.html
+  - /Users/Paul/Applications/git/azeq.github.io/_layouts/default.html
+/Users/Paul/Applications/git/azeq.github.io/_layouts/post.html:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps: []
+/Users/Paul/Applications/git/azeq.github.io/_layouts/page.html:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps: []
+/Users/Paul/Applications/git/azeq.github.io/_includes/head.html:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps: []
+/Users/Paul/Applications/git/azeq.github.io/_includes/header.html:
+  mtime: 2015-02-08 13:40:48.000000000 +01:00
+  deps: []
