@@ -29,8 +29,6 @@ class Foo {
 }
 {% endhighlight %}
 
-- Google's lecture: 
+- Google's lecture:
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/WTVooKLLVT8" frameborder="0" allowfullscreen></iframe>
-
-
