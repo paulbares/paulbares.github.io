@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Java Memory Model"
+tags: java
 ---
 
 Here's some intersting links about the Java Memory Model.
