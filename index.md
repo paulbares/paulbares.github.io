@@ -1,3 +1,4 @@
+# Home
 My recent articles on Medium:
 
 - [Why Double-Checked Locking is STILL Broken](https://medium.com/@bares.paul/why-double-checked-locking-is-still-broken-a70f0726c92d?source=friends_link&sk=c7413f7aea9eee07a47aec42a2ee3255)
