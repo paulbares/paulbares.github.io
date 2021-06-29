@@ -6,5 +6,6 @@ My recent articles on Medium:
 
 Tools:
 - [GitHub Packages Manager](https://paulbares.github.io/github-packages-manager/) 
+
 > github-packages-manager is a client-side application to manage GitHub packages. It uses GitHub GraphQL API to fetch and display the list of packages and GitHub GraphQL Preview API for deletion. Because of it was made for my own needs only, it has a very limited set of functionalities.
 > It may be very useful for Java projects managed with maven having multi modules hence multiple Java artifacts.
