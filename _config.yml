@@ -1,15 +1,11 @@
 # theme: jekyll-theme-cayman
 theme: minima
-title: Paul Bares
-subtitle: Home
-description: 
+# title: Paul Bares
+# subtitle: Home
+description: Personal website
 domain: paulbares.me    
 url: https://paulbares.me
 
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    twitter: jekyllrb
-    github:  jekyll
+# social
+linkedin_username: paulbares
+github_username:  paulbares
