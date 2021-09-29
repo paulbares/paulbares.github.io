@@ -19,6 +19,6 @@ Paul Bares's Homepage
 
 To keep track of interesting stuff on the Internet.
 
-- [Techonology articles](https://github.com/paulbares/notes/blob/master/README.md)
+- [Techonology articles](articles.md)
 - [Stackoverflow questions](https://github.com/paulbares/notes/blob/master/STACKOVERFLOW.md)
 - [Quotes](https://github.com/paulbares/notes/blob/master/QUOTES.md)
