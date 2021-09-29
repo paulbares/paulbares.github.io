@@ -6,6 +6,9 @@ description: Personal website
 domain: paulbares.me    
 url: https://paulbares.me
 
+header_pages:
+  - about.md
+
 # social
 linkedin_username: paulbares
 github_username:  paulbares
