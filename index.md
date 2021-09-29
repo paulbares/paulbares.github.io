@@ -1,5 +1,3 @@
-[GitHub](https://github.com/paulbares) | [LinkedIn](https://linkedin.com/in/paulbares)
-
 ## My articles on Medium
 
 - [Authenticate users in your webapp with Azure Active Directory as IDP and Keycloak as SP](https://paulbares.medium.com/authenticate-users-in-your-webapp-with-azure-active-directory-as-idp-and-keycloak-as-sp-c4d06602ece3)
