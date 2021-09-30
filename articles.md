@@ -34,7 +34,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 
 ### Optimization
 * [https://www.infoq.com/articles/making-code-faster-taming-branches/](https://www.infoq.com/articles/making-code-faster-taming-branches/) tags{cpu,branch}
-* [Why is processing a sorted array faster than processing an unsorted array?]([https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)) tags{cpu,branch,predication}
+* [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) tags{cpu,branch,predication}
 
 ### Rust
 * [https://rust-unofficial.github.io/too-many-lists/](https://rust-unofficial.github.io/too-many-lists/) tags{rust,exercise,training}
