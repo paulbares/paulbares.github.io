@@ -25,3 +25,10 @@ To keep track of interesting stuff on the Internet.
 - [Techonology articles](articles.md)
 - [Stackoverflow questions](https://github.com/paulbares/notes/blob/master/STACKOVERFLOW.md)
 - [Quotes](https://github.com/paulbares/notes/blob/master/QUOTES.md)
+
+### Contributions
+
+#### Camunda
+
+ - [https://jira.camunda.com/browse/CAM-8494](https://jira.camunda.com/browse/CAM-8494)
+ - [https://jira.camunda.com/browse/CAM-12106](https://jira.camunda.com/browse/CAM-12106)
