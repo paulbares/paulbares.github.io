@@ -16,6 +16,9 @@ title: List of articles
 ### Framework
 * [https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/) tags{hibernate,jpa,java}
 
+### GitHub
+* [https://github.com/wrandelshofer/FastDoubleParser](https://github.com/wrandelshofer/FastDoubleParser) tags{parser,java}
+
 ### Interview 
 * [https://yangshun.github.io/tech-interview-handbook/](https://yangshun.github.io/tech-interview-handbook/) tags{interview,algorithm,exercise}
 
