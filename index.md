@@ -5,6 +5,8 @@ title: Table of contents
 
 ### My articles on Medium
 
+- [How fast can you read a very large csv file and compute min, max, average aggregation out of it (Part 2)](https://paulbares.medium.com/how-fast-can-you-read-a-large-csv-file-and-compute-min-max-average-aggregation-out-of-it-part-2-4fbf17d4fa48?sk=4474c40d7704b9c131a97a97a0a1f420)
+- [How fast can you read a very large csv file and compute min, max, average aggregation out of it (Part 1)](https://paulbares.medium.com/how-fast-can-you-read-a-large-csv-file-and-compute-min-max-average-aggregation-out-of-it-part-1-289b0b9b99cf?sk=16c325ab70f029ec37bbd7e23351689e)
 - [Authenticate users in your webapp with Azure Active Directory as IDP and Keycloak as SP](https://paulbares.medium.com/authenticate-users-in-your-webapp-with-azure-active-directory-as-idp-and-keycloak-as-sp-c4d06602ece3)
 - [Why Double-Checked Locking is STILL Broken](https://medium.com/@bares.paul/why-double-checked-locking-is-still-broken-a70f0726c92d?source=friends_link&sk=c7413f7aea9eee07a47aec42a2ee3255)
 - [Push notification for approval workflow process tasks with Camunda](https://medium.com/@bares.paul/push-notification-for-approval-workflow-process-tasks-with-camunda-f796ce15f541?source=friends_link&sk=baec46abdaec084e917d086a46021c11)
