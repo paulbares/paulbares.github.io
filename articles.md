@@ -42,7 +42,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 ### Rust
 * [https://rust-unofficial.github.io/too-many-lists/](https://rust-unofficial.github.io/too-many-lists/) tags{rust,exercise,training}
 * The Rustonomicon, advanced rust concepts: [https://doc.rust-lang.org/nomicon/index.html](https://doc.rust-lang.org/nomicon/index.html) tags{rust}
-* [Rust](https://github.com/azeq/notes/blob/master/rust.md) tags{rust}
+* [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) tags{rust}
 
 ### Security
 * [https://youtu.be/996OiexHze0](https://youtu.be/996OiexHze0) tags{ouath2,authentication code flow,okta}
