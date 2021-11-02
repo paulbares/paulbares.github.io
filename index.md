@@ -34,3 +34,6 @@ To keep track of interesting stuff on the Internet.
 
  - [https://jira.camunda.com/browse/CAM-8494](https://jira.camunda.com/browse/CAM-8494)
  - [https://jira.camunda.com/browse/CAM-12106](https://jira.camunda.com/browse/CAM-12106)
+
+#### Keycloak
+- [https://github.com/keycloak/keycloak/pull/8679](https://github.com/keycloak/keycloak/pull/8679)
