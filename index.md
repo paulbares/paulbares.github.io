@@ -24,7 +24,7 @@ title: Table of contents
 
 To keep track of interesting stuff on the Internet.
 
-- [Techonology articles](articles.md)
+- [Technology articles](articles.md)
 - [Stackoverflow questions](https://github.com/paulbares/notes/blob/master/STACKOVERFLOW.md)
 - [Quotes](https://github.com/paulbares/notes/blob/master/QUOTES.md)
 
