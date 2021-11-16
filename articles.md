@@ -9,6 +9,7 @@ title: List of articles
 
 ### Database
 * [https://research.google/pubs/pub48030/](https://research.google/pubs/pub48030/) tags{google,key-value,distributed}
+* [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.248&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.248&rep=rep1&type=pdf) tags{index,hashtable,radix,tree}
 
 ### Data
 * [https://ananasanalytics.com/](https://ananasanalytics.com/) tags{analytics}
