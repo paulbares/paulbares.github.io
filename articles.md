@@ -22,6 +22,8 @@ title: List of articles
 
 ### Interview 
 * [https://yangshun.github.io/tech-interview-handbook/](https://yangshun.github.io/tech-interview-handbook/) tags{interview,algorithm,exercise}
+* [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles) tags{interview,aws,amazon}
+* [Reverse interview](https://github.com/viraptor/reverse-interview) tags{interview}
 
 ### Linux
 * [https://lwn.net/Articles/lsfmm2019/](https://lwn.net/Articles/lsfmm2019/) tags{filesystem,memory}
