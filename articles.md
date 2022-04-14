@@ -25,6 +25,9 @@ title: List of articles
 * [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles) tags{interview,aws,amazon}
 * [Reverse interview](https://github.com/viraptor/reverse-interview) tags{interview}
 
+### Job
+* [https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) tags{negotiation,job}
+
 ### Linux
 * [https://lwn.net/Articles/lsfmm2019/](https://lwn.net/Articles/lsfmm2019/) tags{filesystem,memory}
 
