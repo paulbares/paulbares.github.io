@@ -6,6 +6,7 @@ title: List of articles
 ### Algorithm
 * [https://sortingsearching.com](https://sortingsearching.com) tags{sort,search}
 * [https://github.com/labuladong/fucking-algorithm/tree/english](https://github.com/labuladong/fucking-algorithm/tree/english) tags{interview,algorithm}
+* [https://jolynch.github.io/posts/use_fast_data_algorithms/](https://jolynch.github.io/posts/use_fast_data_algorithms/) tags{compression,hashing,encryption}
 
 ### Database
 * [https://research.google/pubs/pub48030/](https://research.google/pubs/pub48030/) tags{google,key-value,distributed}
