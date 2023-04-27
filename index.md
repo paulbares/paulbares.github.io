@@ -38,3 +38,11 @@ To keep track of interesting stuff on the Internet.
 
 #### Keycloak
 - [https://github.com/keycloak/keycloak/pull/8679](https://github.com/keycloak/keycloak/pull/8679)
+
+### Bash commands
+
+#### Find out top 10 files and directories
+[source](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
+```
+du -a /var | sort -n -r | head -n 10
+```
