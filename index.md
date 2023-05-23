@@ -46,3 +46,8 @@ To keep track of interesting stuff on the Internet.
 ```
 du -a /var | sort -n -r | head -n 10
 ```
+
+#### Check folder size in Bash
+```
+du -hs your_directory
+```
