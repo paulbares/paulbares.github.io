@@ -5,6 +5,7 @@ title: Table of contents
 
 ### My articles on Medium
 
+- [Simulate Partial Rollup with Rollup and Grouping Sets](https://medium.com/@paulbares/simulate-partial-rollup-with-rollup-and-grouping-sets-3ee1baa49ebf)
 - [Authenticate as an end user a Spring Boot app for access to the BigQuery API](https://paulbares.medium.com/authenticate-as-an-end-user-a-spring-boot-app-for-access-to-the-bigquery-api-418d74997481)
 - [How fast can you read a very large csv file and compute min, max, average aggregation out of it (Part 2)](https://paulbares.medium.com/how-fast-can-you-read-a-large-csv-file-and-compute-min-max-average-aggregation-out-of-it-part-2-4fbf17d4fa48?sk=4474c40d7704b9c131a97a97a0a1f420)
 - [How fast can you read a very large csv file and compute min, max, average aggregation out of it (Part 1)](https://paulbares.medium.com/how-fast-can-you-read-a-large-csv-file-and-compute-min-max-average-aggregation-out-of-it-part-1-289b0b9b99cf?sk=16c325ab70f029ec37bbd7e23351689e)
@@ -51,3 +52,8 @@ du -a /var | sort -n -r | head -n 10
 ```
 du -hs your_directory
 ```
+
+### Tutorials
+
+[How To Install Windows 11 On M1/M2 Macs: VMWare Fusion (2023)](https://www.youtube.com/watch?v=za2CyrxKYFs)
+iso file downloaded here => `Users/paul/Library/Parallels/Downloads/`
