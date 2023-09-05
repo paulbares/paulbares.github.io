@@ -55,5 +55,5 @@ du -hs your_directory
 
 ### Tutorials
 
-[How To Install Windows 11 On M1/M2 Macs: VMWare Fusion (2023)](https://www.youtube.com/watch?v=za2CyrxKYFs)
+[How To Install Windows 11 On M1/M2 Macs: VMWare Fusion (2023)](https://www.youtube.com/watch?v=za2CyrxKYFs&t=621s)
 iso file downloaded here => `Users/paul/Library/Parallels/Downloads/`
