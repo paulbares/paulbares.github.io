@@ -3,6 +3,10 @@ layout: post
 title: Table of contents
 ---
 
+### Open Source Software project
+
+[SquashQL](https://www.squashql.io/) is an innovative open-source project that serves as a SQL query engine specifically designed to facilitate multi-dimensional queries within SQL databases. Its primary focus lies in empowering users to perform advanced operations such as what-if analysis, bucketing, time series comparison, and parent-child comparisons seamlessly. Software developers can leverage its capabilities for software developers to build data analytical platforms with valuable insights from complex, multi-dimensional datasets while leveraging the familiarity and power of SQL. It opens up new possibilities for in-depth data exploration and decision-making.
+
 ### My articles on Medium
 
 - [Simulate Partial Rollup with Rollup and Grouping Sets](https://medium.com/@paulbares/simulate-partial-rollup-with-rollup-and-grouping-sets-3ee1baa49ebf)
