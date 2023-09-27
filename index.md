@@ -9,6 +9,7 @@ title: Table of contents
 
 ### My articles on Medium
 
+- [How to identify rows added by GROUP BY ROLLUP?](https://medium.com/@paulbares/how-to-identify-rows-added-by-group-by-rollup-acb6d2dfdef4)
 - [Simulate Partial Rollup with Rollup and Grouping Sets](https://medium.com/@paulbares/simulate-partial-rollup-with-rollup-and-grouping-sets-3ee1baa49ebf)
 - [Authenticate as an end user a Spring Boot app for access to the BigQuery API](https://paulbares.medium.com/authenticate-as-an-end-user-a-spring-boot-app-for-access-to-the-bigquery-api-418d74997481)
 - [How fast can you read a very large csv file and compute min, max, average aggregation out of it (Part 2)](https://paulbares.medium.com/how-fast-can-you-read-a-large-csv-file-and-compute-min-max-average-aggregation-out-of-it-part-2-4fbf17d4fa48?sk=4474c40d7704b9c131a97a97a0a1f420)
