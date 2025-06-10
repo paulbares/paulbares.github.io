@@ -9,6 +9,7 @@ title: Table of contents
 
 ### My articles on Medium
 
+- [How to build HotSpot Disassembler (hsdis) on macOS](https://medium.com/@paulbares/how-to-build-hotspot-disassembler-hsdis-on-macos-3eaa9eef9390)
 - [How to identify rows added by GROUP BY ROLLUP?](https://medium.com/@paulbares/how-to-identify-rows-added-by-group-by-rollup-acb6d2dfdef4)
 - [Simulate Partial Rollup with Rollup and Grouping Sets](https://medium.com/@paulbares/simulate-partial-rollup-with-rollup-and-grouping-sets-3ee1baa49ebf)
 - [Authenticate as an end user a Spring Boot app for access to the BigQuery API](https://paulbares.medium.com/authenticate-as-an-end-user-a-spring-boot-app-for-access-to-the-bigquery-api-418d74997481)
