@@ -47,6 +47,10 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * [https://www.infoq.com/articles/making-code-faster-taming-branches/](https://www.infoq.com/articles/making-code-faster-taming-branches/) tags{cpu,branch}
 * [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) tags{cpu,branch,predication}
 
+### Profiling
+
+* [https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/) tags{profiler,java,safepoint}
+
 ### Rust
 * [https://rust-unofficial.github.io/too-many-lists/](https://rust-unofficial.github.io/too-many-lists/) tags{rust,exercise,training}
 * The Rustonomicon, advanced rust concepts: [https://doc.rust-lang.org/nomicon/index.html](https://doc.rust-lang.org/nomicon/index.html) tags{rust}
