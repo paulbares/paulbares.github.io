@@ -68,6 +68,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * [https://roadmap.sh/guides/levels-of-seniority](https://roadmap.sh/guides/levels-of-seniority) tags{seniority}
 * [https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) tags{rules}
 * [https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html) tags{bug,fix}
+* [https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts](https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts) tags{lead,management}
 
 ### System design
 * [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) tags{system}
