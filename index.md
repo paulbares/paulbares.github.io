@@ -9,6 +9,7 @@ title: Table of contents
 
 ### My articles on Medium
 
+- [Fowl Play: I ditched Java’s Sort for DuckDB’s because it’s quacker](https://medium.com/@paulbares/fowl-play-i-ditched-javas-sort-for-duckdb-s-because-it-s-quacker-c398078954e6)
 - [How to build HotSpot Disassembler (hsdis) on macOS](https://medium.com/@paulbares/how-to-build-hotspot-disassembler-hsdis-on-macos-3eaa9eef9390)
 - [How to identify rows added by GROUP BY ROLLUP?](https://medium.com/@paulbares/how-to-identify-rows-added-by-group-by-rollup-acb6d2dfdef4)
 - [Simulate Partial Rollup with Rollup and Grouping Sets](https://medium.com/@paulbares/simulate-partial-rollup-with-rollup-and-grouping-sets-3ee1baa49ebf)
