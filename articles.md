@@ -23,7 +23,7 @@ title: List of articles
 * [https://github.com/wrandelshofer/FastDoubleParser](https://github.com/wrandelshofer/FastDoubleParser) tags{parser,java}
 
 ### Interview 
-* [https://yangshun.github.io/tech-interview-handbook/](https://yangshun.github.io/tech-interview-handbook/) tags{interview,algorithm,exercise}
+* [https://yangshun.github.io/tech-interview-handbook/](https://github.com/yangshun/tech-interview-handbook) tags{interview,algorithm,exercise}
 * [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles) tags{interview,aws,amazon}
 * [Reverse interview](https://github.com/viraptor/reverse-interview) tags{interview}
 
